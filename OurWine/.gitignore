@@ -1,0 +1,9 @@
+# Xcode
+.DS_Store
+/build
+*.xcodeproj/xcuserdata/
+*.xcworkspace/sharedata/
+*.xccheckout
+
+# Credentials
+Credentials.plist 
